@@ -5,10 +5,10 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Student
-- 💻 Passionate about full-stack development and learning new technologies
+- 💻 Passionate about app development and learning new technologies
 - 🌱 Currently exploring: Rust, Flutter, and Advanced Backend Development
 - 💬 Ask me about: Java, React, Python, Web Development
-- 📫 How to reach me: [LinkedIn](https://linkedin.com) (Add your LinkedIn link!)
+
 
 ---
 
@@ -36,19 +36,7 @@
 
 ---
 
-## 📈 GitHub Stats
 
-![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
----
-
-## ✨ Fun Facts
-
-- 🧠 Constantly learning and building new projects
-- 🚀 Love exploring open-source and new frameworks
-- 🎯 Goal: Become a versatile full-stack developer!
-
----
 
