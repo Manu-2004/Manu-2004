@@ -4,11 +4,17 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student
-- 💻 Passionate about app development and learning new technologies
-- 🌱 Currently exploring: Rust, Flutter, and Advanced Backend Development
-- 💬 Ask me about: Java, React, Python, Web Development
+- 🎓 Computer Science Student  
+- 💻 Passionate about app development and learning new technologies  
+- 🌱 Currently exploring: Rust, Flutter, Advanced Backend Development, Machine Learning 🤖, and LangChain  
+- 💬 Ask me about: Java, React, Python, Web Development  
 
+---
+
+## 🤖 Exploring Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+I'm currently diving into the world of Machine Learning . Also exploring LLM frameworks like LangChain to build intelligent apps.
 
 ---
 
@@ -32,14 +38,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-
 ### 🛢️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-
-
-
-
-
+### ⚙️ AI / LLM Tools
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
