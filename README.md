@@ -6,7 +6,7 @@
 
 - 🎓 Computer Science Student  
 - 💻 Passionate about app development and learning new technologies  
-- 🌱 Currently exploring: Rust, Flutter, Advanced Backend Development, Machine Learning 🤖, and LangChain  
+- 🌱 Currently exploring: Flutter, Advanced Backend Development, Machine Learning , and LangChain  
 - 💬 Ask me about: Java, React, Python, Web Development  
 
 ---
